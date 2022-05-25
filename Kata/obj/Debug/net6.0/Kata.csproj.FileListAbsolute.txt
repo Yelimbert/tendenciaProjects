@@ -1,0 +1,15 @@
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.csproj.AssemblyReference.cache
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.AssemblyInfoInputs.cache
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.AssemblyInfo.cs
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.csproj.CoreCompileInputs.cache
+/Users/yelimbertjavier/tendencia/Kata/bin/Debug/net6.0/Kata
+/Users/yelimbertjavier/tendencia/Kata/bin/Debug/net6.0/Kata.deps.json
+/Users/yelimbertjavier/tendencia/Kata/bin/Debug/net6.0/Kata.runtimeconfig.json
+/Users/yelimbertjavier/tendencia/Kata/bin/Debug/net6.0/Kata.dll
+/Users/yelimbertjavier/tendencia/Kata/bin/Debug/net6.0/Kata.pdb
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.dll
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/refint/Kata.dll
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.pdb
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/Kata.genruntimeconfig.cache
+/Users/yelimbertjavier/tendencia/Kata/obj/Debug/net6.0/ref/Kata.dll
