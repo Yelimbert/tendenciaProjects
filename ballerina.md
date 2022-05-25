@@ -23,9 +23,11 @@
 	Ballerina se anunció públicamente por primera vez en 2017 y la versión 1.0 se lanzó el 10 de septiembre de 2019. y su último release fue en el 10 de mayo del 2022.
    * Estado: Activo.
 ## II) Realizar "Hello World" con el lenguaje asignado. (videos)
+[Video](https://youtu.be/oFY83jpJ3z4)
 ## III) Demostrar como se interactúa con el Environment con el lenguaje asignado. (videos)
 * Argumentos de linea de comando
 * Standard Streams: Standard Input, Output y Error
 * Variables de ambiente
 * File I/O
 * Network I/O
+[Video](https://youtu.be/oFY83jpJ3z4)
